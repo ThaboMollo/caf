@@ -1,0 +1,185 @@
+{
+    "Header": {
+        "title": "",
+        "paragraph": ""
+
+    },
+    "About": {
+        "paragraph": "Courage-the quality of mind or spirit that enables person to face difficulty, danger, pain, without fear.",
+        "Why": [
+            "To uphold sound and healthy families.",
+            "To build strong and loving families.",
+            "To restore responsible men and women.",
+            "To see dysfunctional families being mended",
+            "To empower and capacitate men and women to enhance their functions"
+        ],
+        "Why2": [
+            "Love",
+            "Faith",
+            "Courage",
+            "Unity"
+        ]
+    },
+    "Events": [
+        {
+            "pic": "img/events/mnsMaf/mns1.jpg",
+            "name": "Mothers and Sons Dialogue in Mafikeng",
+            "link": "/mothers-and-sons",
+            "date": "8 December 2019"
+        },
+        {
+            "pic": "img/events/gentsTalkNWUMaf/gent1-20191105.jpg",
+            "name": "Gentlemen's Talk at NWU Mafikeng",
+            "link": "/gentlemen-talk",
+            "date": "10 November 2019"
+        },
+        {
+            "pic": "img/events/fns/05.jpg",
+            "name": "Fathers and Sons Dialogue",
+            "link": "/father-and-sons",
+            "date": "9 June 2019"
+        },
+        {
+            "pic": "img/events/MarriagePta/pta1.jpg",
+            "name": "Marriage Seminar Pretoria",
+            "link": "/marriage-pta",
+            "date": "23 February 2019"
+        },
+        {
+            "pic": "img/events/SingleRusty/rusty.jpg",
+            "name": "Singleness Relationship Seminar in Rusternburg",
+            "link": "/singleness-rusternburg",
+            "date": "22 June 2018"
+        },
+        {
+            "pic": "img/events/ForexMaf/Forex1.jpg",
+            "name": "Empowerment Talk at Forex Trade Session (External Invite Mafikeng)",
+            "link": "/empowerment-mafikeng",
+            "date": "14 October 2017"
+        },
+        {
+            "pic": "img/events/VouterMaf/Maf1.jpg",
+            "name": "Vouter Molefe Launch Session in Rusternburg",
+            "link": "/vouter-molefe-launch",
+            "date": "9 August 2017"
+        },
+        {
+            "pic": "img/events/HeatLichternburg/Heat1.jpg",
+            "name": "Heatwave Transformational Session in Lichternburg",
+            "link": "/heatware-lich",
+            "date": ""
+        },
+        {
+            "pic": "img/events/MarriageKlerk/MarKlrk2.jpg",
+            "name": "Marriage Seminar in Klerksdorp",
+            "link": "/marriage-klerksdorp",
+            "date": ""
+        }
+    ],
+    "Partners": [{
+            "img": "img/partners/01.jpg",
+            "name": "You FM"
+        },
+        {
+            "img": "img/partners/02.jpg",
+            "name": "SAFM"
+        },
+        {
+            "img": "img/partners/03.jpg",
+            "name": "Joyous Radio"
+        },
+        {
+            "img": "img/partners/04.jpg",
+            "name": "Start FM"
+        },
+        {
+            "img": "img/partners/05.jpg",
+            "name": "NWU FM"
+        },
+        {
+            "img": "img/partners/06.jpg",
+            "name": "Ratlou FM"
+        },
+        {
+            "img": "img/partners/07.jpg",
+            "name": "Motsweding FM"
+        },
+        {
+            "img": "img/partners/08.jpg",
+            "name": "Mahikeng FM"
+        },
+        {
+            "img": "img/partners/09.jpg",
+            "name": "SAPS North West Province"
+        },
+        {
+            "img": "img/partners/10.jpg",
+            "name": "Trans Africa Radio"
+        },
+        {
+            "img": "img/partners/11.jpg",
+            "name": "Premier's Office (District and Provincial Level)"
+        }
+    ],
+    "Blogs": [
+        {
+            "image": "img/bayede.jpg",
+            "title": "Caramela",
+            "intro": "Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction.",
+            "blog1": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "blog2": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "blog3": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "blog4": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "link": "blog1"
+        },
+        {
+            "image": "img/logo.jpg",
+            "title": "Caramela",
+            "intro": "Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction.",
+            "blog1": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "blog2": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "blog3": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "blog4": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "link": "blog2"
+        },
+        {
+            "image": "img/logo.jpg",
+            "title": "Caramela",
+            "intro": "Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction.",
+            "blog1": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "blog2": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "blog3": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "blog4": "Does Redux have you confused? \n\nIn this blog, you'll learn the fundamentals of Redux stores, actions, reducers, and middleware to manage data throughout your application. \n\nWhat is Redux? \n\nRedux is an open-source JavaScript library for managing the application state. It is most commonly used with libraries such as React or Angular for building user interfaces. \n\nWhy Redux? \n\nAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a 'predictable state container for JavaScript apps' that helps ensure your apps work predictably and are easier to test. \n\nNow let's hop into the basics that make Redux go. \n\nCreate a Redux Store. \n\nIn Redux, there is a Single State Object that's responsible for the entire state of your application. This means if you had a React app with ten components, and each component had its local state, the entire state of your app would be defined by a single state object housed in the Redux store. This is the first important principle to understand when learning Redux: the Redux store is the single source of truth when it comes to application state. ",
+            "link": "blog3"
+        }
+    ],
+    "Contact": {
+        "address": "",
+        "phone": "+27 65 262 9544",
+        "email": "info@courageousact.org.za",
+        "facebook": "https://www.facebook.com/CourageousActFoundation/",
+        "twitter": "twitter.com",
+        "instagram": "https://www.instagram.com/courageousactfoundation/?hl=en"
+    },
+    "Target": [{
+            "icon": "fa fa-money",
+            "title": "Business (Management)",
+            "text": "Co-operate Dialogues, Conference Dialogues"
+        },
+        {
+            "icon": "fa fa-book",
+            "title": "Education (Administration)",
+            "text": "Schools, TVET Colleges Universities"
+        },
+        {
+            "icon": "fa fa-bank",
+            "title": "Political (Governance)",
+            "text": "Lekgotla, Men's forums, Round table Discussions"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Religion (Leadership)",
+            "text": "Men's Ministries, Men's Fellowships"
+        }
+    ]
+}

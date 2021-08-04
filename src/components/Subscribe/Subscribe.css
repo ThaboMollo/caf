@@ -1,0 +1,140 @@
+.wrapper {
+    margin-left: 43%;
+    height: 60px;
+    width: 320px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.wrapper .field{
+    height: 100%;
+    width: 0%;
+    opacity: 0;
+    pointer-events: none;
+    position: relative;
+    transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+#click:checked ~ .field{
+    width: 100%;
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.wrapper .field input{
+    height: 100%;
+    width: 100%;
+    border: 2px solid #800;
+    border-radius: 5px;
+    padding: 0 130px 0 15px;
+    font-size: 20px;
+    outline: none;
+    box-shadow: 5px 5px 30px #333;
+}
+.wrapper .field input::placeholder{
+    color: #800;
+    font-size: 18px;
+}
+.wrapper .field .btn-2{
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+    font-size: 16px;
+    color: #fff;
+    line-height: 40px;
+    background: #800;
+    height: 40px;
+    width: 100px;
+    user-select: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.wrapper .field .btn-2:active{
+    transform: translateY(-50%) scale(0.9);
+}
+.wrapper .btn-1{
+    position: absolute;
+    height: 90%;
+    width: 50%;
+    color: #fff;
+    background-color: #800;
+    line-height: 60px;
+    font-size: 27px;
+    font-weight: 500;
+    border-radius: 5px;
+    user-select: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 30px #333;
+    transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.wrapper .btn-1:active{
+    transform: scale(0.9);
+}
+.viz{
+    position: absolute;
+    left: -100vw;
+}
+
+@media (max-width: 320px) {
+	.wrapper{
+		margin-left: 0;
+	}
+}
+@media (max-width: 375px) {
+	.wrapper{
+		margin-right: 0;
+	}
+}
+@media (max-width: 415px) {
+    .wrapper{
+		margin-left: 0;
+	}
+}
+@media (max-width: 450px){
+	.wrapper{
+		margin-left: 0;
+	}
+}
+@media (max-width: 500px){
+	.wrapper{
+		/* margin-left: 10%; */
+	}
+}
+@media (max-width: 550px){
+	.wrapper{
+		/* margin-left: 15%; */
+	}
+}
+@media (max-width: 600px){
+    wrapper{
+		margin-left: 15%;
+	}
+}
+@media (max-width: 650px){
+    wrapper{
+		/* margin-left: 12%; */
+	}
+}
+@media (max-width: 700px){
+    wrapper{
+		/* margin-left: 12.5%; */
+	}
+}
+@media (max-width: 768px) {
+    wrapper{
+		/* margin-left: 20%; */
+	}
+}
+@media (max-width: 992px) {
+    wrapper{
+		margin-left: 20%;
+	}
+}
+@media (max-width: 1200px) {
+    wrapper{
+		/* margin-left: 20%; */
+	}
+}
